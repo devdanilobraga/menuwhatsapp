@@ -1,0 +1,63 @@
+[
+    {
+      "nome": "Hambúrguer",
+      "preco": 24.90,
+      "descricao": "Pão, carne bovina grelhada, queijo, alface, tomate e maionese.",
+      "imagem": "https://exemplo.com/hamburguer.jpg"
+    },
+    {
+      "nome": "X-Tudo",
+      "preco": 29.90,
+      "descricao": "Pão, hambúrguer, queijo, presunto, bacon, ovo, alface, tomate e maionese.",
+      "imagem": "https://exemplo.com/x-tudo.jpg"
+    },
+    {
+      "nome": "X-Salada",
+      "preco": 19.90,
+      "descricao": "Pão, hambúrguer, queijo, alface, tomate e maionese.",
+      "imagem": "https://exemplo.com/x-salada.jpg"
+    },
+    {
+      "nome": "Batata Frita",
+      "preco": 14.90,
+      "descricao": "Batatas fritas crocantes servidas com molho especial.",
+      "imagem": "https://exemplo.com/batata-frita.jpg"
+    },
+    {
+      "nome": "Milkshake de Chocolate",
+      "preco": 12.90,
+      "descricao": "Sorvete de chocolate, leite e calda de chocolate.",
+      "imagem": "https://exemplo.com/milkshake.jpg"
+    },
+    {
+      "nome": "Cachorro-Quente",
+      "preco": 17.90,
+      "descricao": "Pão, salsicha, purê de batata, vinagrete, queijo e batata palha.",
+      "imagem": "https://exemplo.com/cachorro-quente.jpg"
+    },
+    {
+      "nome": "Pizza de Calabresa",
+      "preco": 49.90,
+      "descricao": "Massa de pizza, molho de tomate, calabresa, queijo e cebola.",
+      "imagem": "https://exemplo.com/pizza-calabresa.jpg"
+    },
+    {
+      "nome": "Refrigerante Lata",
+      "preco": 7.90,
+      "descricao": "Lata de 350ml de refrigerante (Coca-Cola, Guaraná, Fanta).",
+      "imagem": "https://exemplo.com/refrigerante.jpg"
+    },
+    {
+      "nome": "Suco Natural",
+      "preco": 9.90,
+      "descricao": "Suco feito com frutas naturais, sem conservantes.",
+      "imagem": "https://exemplo.com/suco-natural.jpg"
+    },
+    {
+      "nome": "Açaí na Tigela",
+      "preco": 22.90,
+      "descricao": "Açaí batido com banana, granola e leite condensado.",
+      "imagem": "https://exemplo.com/acai.jpg"
+    }
+  ]
+  
